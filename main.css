@@ -1,4 +1,13 @@
 body {
     margin: 0;
-    background: #acacac;
+    background: #161616;
+    color: #fff;
+}
+
+.title-block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
 }
